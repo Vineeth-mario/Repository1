@@ -1,0 +1,6 @@
+NodeJS Project
+1.	Sudo Apt update sudo apt install git -y
+2.	Install Git-check version 
+3.	Install nodejs sudo apt install nodejs
+4.	Install NPM sudo apt install npm
+5.	open .env file a secret file to store credentials 
